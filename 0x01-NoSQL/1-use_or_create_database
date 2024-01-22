@@ -1,0 +1,3 @@
+// Create or use a MongoDB database called my_db
+
+use my_db;
